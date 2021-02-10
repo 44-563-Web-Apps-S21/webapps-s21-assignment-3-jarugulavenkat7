@@ -1,3 +1,3 @@
 # WebApps-S21-Assignment-3
 Assignment 3 - Basic HTML
-Hosted at: <https://github.com/44-563-Web-Apps-S21/webapps-s21-assignment-3-jarugulavenkat7>
+Hosted at: <https://github.com/44-563-Web-Apps-S21/webapps-s21-assignment-3-jarugulavenkat7/blob/main/index.html>
